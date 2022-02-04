@@ -76,7 +76,7 @@ namespace passwordgenerator
 
         private void discordButton_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://discord.gg/CAuUADvgK3");
+            System.Diagnostics.Process.Start("https://discord.gg/y4G9EMPQ7C");
         }
 
         private void passwordLengthSlider_Scroll(object sender, ScrollEventArgs e)
@@ -88,7 +88,7 @@ namespace passwordgenerator
 
         private void websiteButton_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://favilances.xyz");
+            System.Diagnostics.Process.Start("https://discordtr.pro/");
         }
     }
 }
