@@ -1,10 +1,10 @@
-# Parola Oluşturucusu
+# Password Generator | C#
 
-Bu proje Favilancesxld#0045 tarafından yapılmıştır.
 
 # Screenshot
 
 
-<img alt="favi" width="880px" src="https://cdn.discordapp.com/attachments/883969363017859102/904331430472069190/passwordgen.png" />
+<img alt="favi"src="https://cdn.discordapp.com/attachments/989957058965172295/1070077875589496842/Ekran_Alnts.PNG" />
 
-https://discordtr.pro/
+# MazeWW
+
