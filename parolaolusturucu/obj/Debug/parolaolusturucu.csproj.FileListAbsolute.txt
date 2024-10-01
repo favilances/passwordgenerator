@@ -1,0 +1,12 @@
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\bin\Debug\parolaolusturucu.exe.config
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\bin\Debug\parolaolusturucu.exe
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\bin\Debug\parolaolusturucu.pdb
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\bin\Debug\Guna.UI2.dll
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\obj\Debug\parolaolusturucu.csproj.AssemblyReference.cache
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\obj\Debug\parolaolusturucu.Form1.resources
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\obj\Debug\parolaolusturucu.Properties.Resources.resources
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\obj\Debug\parolaolusturucu.csproj.GenerateResource.cache
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\obj\Debug\parolaolusturucu.csproj.CoreCompileInputs.cache
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\obj\Debug\parolaol.914C20BC.Up2Date
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\obj\Debug\parolaolusturucu.exe
+C:\Users\favilances\source\repos\parolaolusturucu\parolaolusturucu\obj\Debug\parolaolusturucu.pdb
