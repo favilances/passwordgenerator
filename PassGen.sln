@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassGen", "PassGen\PassGen.csproj", "{4C516264-4FE8-427C-85E3-12F4AAFDB928}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MazePasswordGenerator", "MazePasswordGenerator\MazePasswordGenerator.vdproj", "{1EB9C66F-3C0A-3A65-9116-A72911FCCF78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C516264-4FE8-427C-85E3-12F4AAFDB928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C516264-4FE8-427C-85E3-12F4AAFDB928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C516264-4FE8-427C-85E3-12F4AAFDB928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C516264-4FE8-427C-85E3-12F4AAFDB928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB9C66F-3C0A-3A65-9116-A72911FCCF78}.Debug|Any CPU.ActiveCfg = Debug
+		{1EB9C66F-3C0A-3A65-9116-A72911FCCF78}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3F0B717-2B25-4702-B547-4A4302220DEF}
+	EndGlobalSection
+EndGlobal

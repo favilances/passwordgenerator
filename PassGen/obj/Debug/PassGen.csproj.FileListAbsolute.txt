@@ -1,0 +1,14 @@
+C:\Users\favilances\source\repos\PassGen\PassGen\bin\Debug\PassGen.exe.config
+C:\Users\favilances\source\repos\PassGen\PassGen\bin\Debug\PassGen.exe
+C:\Users\favilances\source\repos\PassGen\PassGen\bin\Debug\PassGen.pdb
+C:\Users\favilances\source\repos\PassGen\PassGen\bin\Debug\CuoreUI.dll
+C:\Users\favilances\source\repos\PassGen\PassGen\bin\Debug\Guna.UI2.dll
+C:\Users\favilances\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.AssemblyReference.cache
+C:\Users\favilances\source\repos\PassGen\PassGen\obj\Debug\PassGen.Form1.resources
+C:\Users\favilances\source\repos\PassGen\PassGen\obj\Debug\PassGen.Properties.Resources.resources
+C:\Users\favilances\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.GenerateResource.cache
+C:\Users\favilances\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.CoreCompileInputs.cache
+C:\Users\favilances\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.Up2Date
+C:\Users\favilances\source\repos\PassGen\PassGen\obj\Debug\PassGen.exe
+C:\Users\favilances\source\repos\PassGen\PassGen\obj\Debug\PassGen.pdb
+C:\Users\favilances\source\repos\PassGen\PassGen\obj\Debug\PassGen.exe.config

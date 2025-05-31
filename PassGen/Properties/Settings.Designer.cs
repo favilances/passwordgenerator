@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace parolaolusturucu.Properties
+namespace PassGen.Properties
 {
 
 
